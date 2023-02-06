@@ -27,6 +27,17 @@ namespace ConsoleAppPrueba
             Console.WriteLine(numero);
             #endregion
 
+            #region ejercicios convirtiendo valores
+
+            Console.Write("Introduzca un nro: ");
+           numero= int.Parse(Console.ReadLine());
+           //numero = Console.Read();
+            Console.WriteLine("el número es:"+ numero);
+            Console.ReadKey(); //lee una tecla que se ha presionado. 
+
+            #endregion
+
+
 
 
         }
