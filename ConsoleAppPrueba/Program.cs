@@ -17,6 +17,18 @@ namespace ConsoleAppPrueba
             #endregion
             Console.WriteLine("Holi mundo");
 
+            #region Declaración de una variable
+            //Declaración de una variable -> si o si se deben ser declaradas explicitamente antes de usarse. 
+            int edad = 20;
+            Console.WriteLine(edad);
+
+            int numero;
+            numero = 2;
+            Console.WriteLine(numero);
+            #endregion
+
+
+
         }
     }
 }
