@@ -64,7 +64,7 @@ namespace ConsoleAppPrueba
 
             #region variables implícitas
             var num = 1;
-            //num = "ddd"; No está admitido ya que la variable se inicializó con un valor int implicitamente. 
+            //num = "ddd"; No está admitido ya que la variable se inicializó con un valor int implicitamente.
             #endregion
 
             #region métodos
